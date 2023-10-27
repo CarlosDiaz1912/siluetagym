@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin",
+      "birthdate": "1980-01-15",
+      "address": "123 Main St",
+      "nombre": "María López",
+      "phone": "555-123-4567",
+      "notes": "Administrador principal"
+    },
+    {
+      "username": "recepcionista1",
+      "password": "recepcionista123",
+      "role": "recepcionista",
+      "birthdate": "1990-05-10",
+      "address": "789 Oak St",
+      "nombre": "María López",
+      "phone": "555-789-1234",
+      "notes": "Recepcionista de turno"
+    },
+    {
+      "username": "recepcionista2",
+      "password": "recepcionista456",
+      "role": "recepcionista",
+      "birthdate": "1988-03-25",
+      "address": "456 Elm St",
+      "nombre": "María López",
+
+      "phone": "555-456-7890",
+      "notes": "Otro recepcionista"
+    },
+    {
+      "username": "entrenador1",
+      "password": "entrenador123",
+      "role": "entrenador",
+      "birthdate": "1985-07-20",
+      "address": "300 Oak St",
+      "phone": "555-123-7890",
+      "notes": "Entrenador personal",
+      "nombre": "María López",
+      "numeroEmpleado": "TRN123",
+      "especialidad": "Entrenamiento de fuerza"
+    },
+    {
+      "username": "entrenador2",
+      "password": "entrenador456",
+      "role": "entrenador",
+      "birthdate": "1992-11-15",
+      "address": "789 Pine St",
+      "phone": "555-987-2345",
+      "notes": "Entrenador de resistencia",
+      "nombre": "Carlos Rodríguez",
+      "numeroEmpleado": "TRN456",
+      "especialidad": "Entrenamiento de resistencia"
+    },
+    {
+      "username": "entrenador3",
+      "password": "entrenador789",
+      "role": "entrenador",
+      "birthdate": "1990-06-08",
+      "address": "123 Elm St",
+      "phone": "555-234-5678",
+      "notes": "Entrenador de flexibilidad",
+      "nombre": "Ana Gómez",
+      "numeroEmpleado": "TRN789",
+      "especialidad": "Entrenamiento de flexibilidad"
+    },
+    {
+      "username": "cliente1",
+      "password": "cliente123",
+      "role": "cliente",
+      "birthdate": "1995-08-22",
+      "address": "101 Pine St",
+      "phone": "555-987-6543",
+      "notes": "Cliente regular",
+      "nombre": "Juan Pérez",
+      "edad": 30,
+      "membresia": "Premium",
+      "statusMembresia": "Activa"
+    },
+    {
+      "username": "cliente2",
+      "password": "cliente456",
+      "role": "cliente",
+      "birthdate": "1988-04-12",
+      "address": "222 Oak St",
+      "phone": "555-555-5555",
+      "notes": "Nuevo cliente",
+      "nombre": "Laura González",
+      "edad": 28,
+      "membresia": "Básica",
+      "statusMembresia": "Activa"
+    }
+    
+  ]
+}
